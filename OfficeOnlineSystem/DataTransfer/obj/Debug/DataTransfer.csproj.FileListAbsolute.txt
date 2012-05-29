@@ -1,0 +1,33 @@
+C:\_Microdesk\_Vault\Users\SBohlen\DineAndDiscussNHibernate\DataTransfer\bin\Debug\DataTransfer.dll
+C:\_Microdesk\_Vault\Users\SBohlen\DineAndDiscussNHibernate\DataTransfer\bin\Debug\DataTransfer.pdb
+C:\_Microdesk\_Vault\Users\SBohlen\DineAndDiscussNHibernate\DataTransfer\obj\Debug\ResolveAssemblyReference.cache
+C:\_Microdesk\_Vault\Users\SBohlen\DineAndDiscussNHibernate\DataTransfer\obj\Debug\DataTransfer.dll
+C:\_Microdesk\_Vault\Users\SBohlen\DineAndDiscussNHibernate\DataTransfer\obj\Debug\DataTransfer.pdb
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code\DineAndDiscussNHibernate\DataTransfer\bin\Debug\Customer.hbm.xml
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code\DineAndDiscussNHibernate\DataTransfer\bin\Debug\DataTransfer.dll
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code\DineAndDiscussNHibernate\DataTransfer\bin\Debug\DataTransfer.pdb
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code\DineAndDiscussNHibernate\DataTransfer\obj\Debug\ResolveAssemblyReference.cache
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code\DineAndDiscussNHibernate\DataTransfer\obj\Debug\DataTransfer.dll
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code\DineAndDiscussNHibernate\DataTransfer\obj\Debug\DataTransfer.pdb
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code(good)\DineAndDiscussNHibernate\DataTransfer\bin\Debug\Customer.hbm.xml
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code(good)\DineAndDiscussNHibernate\DataTransfer\bin\Debug\DataTransfer.dll
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code(good)\DineAndDiscussNHibernate\DataTransfer\bin\Debug\DataTransfer.pdb
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code(good)\DineAndDiscussNHibernate\DataTransfer\obj\Debug\ResolveAssemblyReference.cache
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code(good)\DineAndDiscussNHibernate\DataTransfer\obj\Debug\DataTransfer.dll
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code(good)\DineAndDiscussNHibernate\DataTransfer\obj\Debug\DataTransfer.pdb
+D:\学习\大三下\敏捷软件开发\O\DineAndDiscussNHibernate\DataTransfer\bin\Debug\Customer.hbm.xml
+D:\学习\大三下\敏捷软件开发\O\DineAndDiscussNHibernate\DataTransfer\bin\Debug\User.hbm.xml
+D:\学习\大三下\敏捷软件开发\O\DineAndDiscussNHibernate\DataTransfer\bin\Debug\DataTransfer.dll
+D:\学习\大三下\敏捷软件开发\O\DineAndDiscussNHibernate\DataTransfer\bin\Debug\DataTransfer.pdb
+D:\学习\大三下\敏捷软件开发\O\DineAndDiscussNHibernate\DataTransfer\obj\Debug\ResolveAssemblyReference.cache
+D:\学习\大三下\敏捷软件开发\O\DineAndDiscussNHibernate\DataTransfer\obj\Debug\DataTransfer.dll
+D:\学习\大三下\敏捷软件开发\O\DineAndDiscussNHibernate\DataTransfer\obj\Debug\DataTransfer.pdb
+D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataTransfer\bin\Debug\Customer.hbm.xml
+D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataTransfer\bin\Debug\User.hbm.xml
+D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataTransfer\bin\Debug\DataTransfer.dll
+D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataTransfer\bin\Debug\DataTransfer.pdb
+D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataTransfer\obj\Debug\ResolveAssemblyReference.cache
+D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataTransfer\obj\Debug\DataTransfer.dll
+D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataTransfer\obj\Debug\DataTransfer.pdb
+D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataTransfer\bin\Debug\Post_file.hbm.xml
+D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataTransfer\bin\Debug\Treat_file.hbm.xml
