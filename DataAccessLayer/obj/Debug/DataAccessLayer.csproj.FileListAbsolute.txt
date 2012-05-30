@@ -1,0 +1,60 @@
+C:\_Microdesk\_Vault\Users\SBohlen\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\_Microdesk\_Vault\Users\SBohlen\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\_Microdesk\_Vault\Users\SBohlen\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\DataTransfer.dll
+C:\_Microdesk\_Vault\Users\SBohlen\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\NHibernate.dll
+C:\_Microdesk\_Vault\Users\SBohlen\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\Iesi.Collections.dll
+C:\_Microdesk\_Vault\Users\SBohlen\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\log4net.dll
+C:\_Microdesk\_Vault\Users\SBohlen\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\Castle.DynamicProxy.dll
+C:\_Microdesk\_Vault\Users\SBohlen\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\DataTransfer.pdb
+C:\_Microdesk\_Vault\Users\SBohlen\DineAndDiscussNHibernate\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\_Microdesk\_Vault\Users\SBohlen\DineAndDiscussNHibernate\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\_Microdesk\_Vault\Users\SBohlen\DineAndDiscussNHibernate\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\Customer.hbm.xml
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\DataTransfer.dll
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\NHibernate.dll
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\Iesi.Collections.dll
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\Castle.DynamicProxy.dll
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\log4net.dll
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\DataTransfer.pdb
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code\DineAndDiscussNHibernate\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code\DineAndDiscussNHibernate\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code\DineAndDiscussNHibernate\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code(good)\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\Customer.hbm.xml
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code(good)\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code(good)\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code(good)\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\Castle.DynamicProxy.dll
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code(good)\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\DataTransfer.dll
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code(good)\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\Iesi.Collections.dll
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code(good)\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\log4net.dll
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code(good)\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\NHibernate.dll
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code(good)\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\DataTransfer.pdb
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code(good)\DineAndDiscussNHibernate\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code(good)\DineAndDiscussNHibernate\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code(good)\DineAndDiscussNHibernate\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\学习\大三下\敏捷软件开发\O\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\Customer.hbm.xml
+D:\学习\大三下\敏捷软件开发\O\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\User.hbm.xml
+D:\学习\大三下\敏捷软件开发\O\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\学习\大三下\敏捷软件开发\O\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\学习\大三下\敏捷软件开发\O\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\Castle.DynamicProxy.dll
+D:\学习\大三下\敏捷软件开发\O\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\DataTransfer.dll
+D:\学习\大三下\敏捷软件开发\O\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\Iesi.Collections.dll
+D:\学习\大三下\敏捷软件开发\O\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\log4net.dll
+D:\学习\大三下\敏捷软件开发\O\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\NHibernate.dll
+D:\学习\大三下\敏捷软件开发\O\DineAndDiscussNHibernate\DataAccessLayer\bin\Debug\DataTransfer.pdb
+D:\学习\大三下\敏捷软件开发\O\DineAndDiscussNHibernate\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\学习\大三下\敏捷软件开发\O\DineAndDiscussNHibernate\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\学习\大三下\敏捷软件开发\O\DineAndDiscussNHibernate\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataAccessLayer\bin\Debug\User.hbm.xml
+D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataAccessLayer\bin\Debug\Castle.DynamicProxy.dll
+D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataAccessLayer\bin\Debug\DataTransfer.dll
+D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataAccessLayer\bin\Debug\Iesi.Collections.dll
+D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataAccessLayer\bin\Debug\log4net.dll
+D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataAccessLayer\bin\Debug\NHibernate.dll
+D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataAccessLayer\bin\Debug\DataTransfer.pdb
+D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
