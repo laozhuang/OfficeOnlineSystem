@@ -14,5 +14,5 @@ public partial class Approval : System.Web.UI.Page
     {
         Label4.Text = "正在审批中.....";
     }
-    
+
 }
