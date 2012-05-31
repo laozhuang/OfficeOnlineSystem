@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="3e13d9c4-515f-45fc-a656-9dd00cd33cab" name="STRIKE@STRIKE-THINK 2012-05-31 15:15:47" runUser="STRIKE-THINK\STRIKE" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="本地" id="b0d1f914-73df-497a-86de-32ab188fa84f">
+    <Description>这些设置为本地测试运行的默认测试设置。</Description>
+    <Deployment userDeploymentRoot="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\TestResults" useDefaultDeploymentRoot="false" enabled="false" runDeploymentRoot="STRIKE_STRIKE-THINK 2012-05-31 15_15_47">
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\TestFu.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataAccessLayer\bin\Debug\DataAccessLayer.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\NHibernate\Castle.DynamicProxy.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\NHibernate\log4net.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\NGraphviz.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\MbUnit.MSBuild.Tasks.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\TestDriven.Framework.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\NHibernate\Iesi.Collections.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\QuickGraph.Algorithms.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\NGraphviz.Layout.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\MbUnit.Framework.2.0.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\QuickGraph.Algorithms.Graphviz.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\NGraphviz.Helpers.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\MbUnit.AddIn.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\NAnt.Core.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\NHibernate\NHibernate.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\MbUnit.Framework.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\Refly.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\nunit.framework.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\MbUnit.Tasks.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\QuickGraph.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataTransfer\bin\Debug\DataTransfer.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-05-31T15:15:47.5315892+08:00" queuing="2012-05-31T15:15:52.9899014+08:00" start="2012-05-31T15:15:53.1739120+08:00" finish="2012-05-31T15:16:34.4532730+08:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="STRIKE-THINK" outcome="Error" timestamp="2012-05-31T15:16:34.4412723+08:00">
+        <Text>测试宿主进程意外退出。</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="GetUserByUsernameTest" storage="d:\学习\大三下\敏捷软件开发\o\officeonlinesystem\testproject2\bin\debug\testproject2.dll" id="81c89b63-2aba-e0d0-5cfc-faae534e0a33">
+      <Execution id="7ec85cd1-72a0-4f9f-a3c9-d71bb2b396cc" />
+      <TestMethod codeBase="D:/学习/大三下/敏捷软件开发/O/OfficeOnlineSystem/TestProject2/bin/Debug/TestProject2.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="OfficeOnlineSystemTest.UnitTest2, TestProject2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetUserByUsernameTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="列表中未列出的结果" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="所有已加载的结果" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="81c89b63-2aba-e0d0-5cfc-faae534e0a33" executionId="7ec85cd1-72a0-4f9f-a3c9-d71bb2b396cc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="7ec85cd1-72a0-4f9f-a3c9-d71bb2b396cc" testId="81c89b63-2aba-e0d0-5cfc-faae534e0a33" testName="GetUserByUsernameTest" computerName="STRIKE-THINK" duration="00:00:41.1133515" startTime="2012-05-31T15:15:53.3399215+08:00" endTime="2012-05-31T15:16:34.4532730+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7ec85cd1-72a0-4f9f-a3c9-d71bb2b396cc">
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -46,7 +46,6 @@ D:\学习\大三下\敏捷软件开发\O\DineAndDiscussNHibernate\DataAccessLaye
 D:\学习\大三下\敏捷软件开发\O\DineAndDiscussNHibernate\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
 D:\学习\大三下\敏捷软件开发\O\DineAndDiscussNHibernate\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 D:\学习\大三下\敏捷软件开发\O\DineAndDiscussNHibernate\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
-D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataAccessLayer\bin\Debug\Customer.hbm.xml
 D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataAccessLayer\bin\Debug\User.hbm.xml
 D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataAccessLayer\bin\Debug\DataAccessLayer.dll
 D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
@@ -59,5 +58,3 @@ D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataAccessLayer\bin\
 D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
 D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
-D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataAccessLayer\bin\Debug\Post_file.hbm.xml
-D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataAccessLayer\bin\Debug\Treat_file.hbm.xml

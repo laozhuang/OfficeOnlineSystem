@@ -85,13 +85,10 @@
   <ItemGroup>
     <Compile Include="NHibernateDataProvider.cs" />
     <Compile Include="NHibernateDataProviderHelper.cs" />
+    <Compile Include="Post_fileQueryHql.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\DataTransfer\DataTransfer.csproj">
-      <Project>{96672512-F903-486C-B7B4-FD4CD3BF0D1B}</Project>
-      <Name>DataTransfer</Name>
-    </ProjectReference>
+    <Compile Include="Treat_fileQueryHql.cs" />
+    <Compile Include="UserQueryHql.cs" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
@@ -109,6 +106,12 @@
       <ProductName>Windows Installer 3.1</ProductName>
       <Install>true</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataTransfer\DataTransfer.csproj">
+      <Project>{96672512-F903-486C-B7B4-FD4CD3BF0D1B}</Project>
+      <Name>DataTransfer</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

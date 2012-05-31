@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="7f1fa268-cc03-46ad-9cc5-34da6ba510a0" name="STRIKE@STRIKE-THINK 2012-05-31 16:10:04" runUser="STRIKE-THINK\STRIKE" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="本地" id="b0d1f914-73df-497a-86de-32ab188fa84f">
+    <Description>这些设置为本地测试运行的默认测试设置。</Description>
+    <Deployment enabled="false" runDeploymentRoot="STRIKE_STRIKE-THINK 2012-05-31 16_10_04">
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\TestFu.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataAccessLayer\bin\Debug\DataAccessLayer.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\NHibernate\Castle.DynamicProxy.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\NHibernate\log4net.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\NGraphviz.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\MbUnit.MSBuild.Tasks.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\TestDriven.Framework.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\NHibernate\Iesi.Collections.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\QuickGraph.Algorithms.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\NGraphviz.Layout.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\MbUnit.Framework.2.0.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\QuickGraph.Algorithms.Graphviz.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\NGraphviz.Helpers.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\MbUnit.AddIn.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\NAnt.Core.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\NHibernate\NHibernate.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\MbUnit.Framework.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\Refly.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\nunit.framework.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\MbUnit.Tasks.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\QuickGraph.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataTransfer\bin\Debug\DataTransfer.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-05-31T16:10:04.9269016+08:00" queuing="2012-05-31T16:10:06.6349993+08:00" start="2012-05-31T16:10:06.7420054+08:00" finish="2012-05-31T16:10:08.4571035+08:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="DeleteTFileTest" storage="d:\学习\大三下\敏捷软件开发\o\officeonlinesystem\testproject2\bin\debug\testproject2.dll" id="cc18a150-ff52-f13f-b741-b922a047d94a">
+      <Execution id="6537efd8-818e-4613-970b-e9c5b9729529" />
+      <TestMethod codeBase="D:/学习/大三下/敏捷软件开发/O/OfficeOnlineSystem/TestProject2/bin/Debug/TestProject2.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="OfficeOnlineSystemTest.TreatFileQueryHql, TestProject2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DeleteTFileTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="列表中未列出的结果" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="所有已加载的结果" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="cc18a150-ff52-f13f-b741-b922a047d94a" executionId="6537efd8-818e-4613-970b-e9c5b9729529" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="6537efd8-818e-4613-970b-e9c5b9729529" testId="cc18a150-ff52-f13f-b741-b922a047d94a" testName="DeleteTFileTest" computerName="STRIKE-THINK" duration="00:00:00.7965217" startTime="2012-05-31T16:10:06.7950085+08:00" endTime="2012-05-31T16:10:08.3470972+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6537efd8-818e-4613-970b-e9c5b9729529">
+    </UnitTestResult>
+  </Results>
+</TestRun>
