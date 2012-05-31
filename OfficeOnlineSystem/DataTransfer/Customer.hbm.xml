@@ -7,4 +7,5 @@
     <property name="Firstname"  />
     <property name="Lastname"  />
   </class>
+  
 </hibernate-mapping>

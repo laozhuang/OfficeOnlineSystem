@@ -31,7 +31,6 @@ D:\学习\大三下\敏捷软件开发\O\DineAndDiscussNHibernate\TestProject2\b
 D:\学习\大三下\敏捷软件开发\O\DineAndDiscussNHibernate\TestProject2\obj\Debug\ResolveAssemblyReference.cache
 D:\学习\大三下\敏捷软件开发\O\DineAndDiscussNHibernate\TestProject2\obj\Debug\TestProject2.dll
 D:\学习\大三下\敏捷软件开发\O\DineAndDiscussNHibernate\TestProject2\obj\Debug\TestProject2.pdb
-D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\TestProject2\bin\Debug\Customer.hbm.xml
 D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\TestProject2\bin\Debug\User.hbm.xml
 D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\TestProject2\bin\Debug\App.config
 D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\TestProject2\bin\Debug\TestProject2.dll.config
@@ -64,5 +63,3 @@ D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\TestProject2\bin\Deb
 D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\TestProject2\obj\Debug\ResolveAssemblyReference.cache
 D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\TestProject2\obj\Debug\TestProject2.dll
 D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\TestProject2\obj\Debug\TestProject2.pdb
-D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\TestProject2\bin\Debug\Post_file.hbm.xml
-D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\TestProject2\bin\Debug\Treat_file.hbm.xml
