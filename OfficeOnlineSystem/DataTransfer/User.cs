@@ -12,6 +12,6 @@ namespace DataTransfer
         public virtual string password { get; set; }
         public virtual string email { get; set; }
         public virtual int office_id { get; set; }
-        public virtual int role { get; set; }
+        public virtual Boolean role { get; set; }
     }
 }

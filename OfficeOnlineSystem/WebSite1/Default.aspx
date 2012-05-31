@@ -21,7 +21,7 @@
     </div>
     <p style="margin-left: 560px">
         <asp:Label ID="Label1" runat="server" Text="用户名"></asp:Label>
-        ：<asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+        ：<asp:TextBox ID="TextBox1" runat="server" ></asp:TextBox>
     </p>
     <p style="margin-left: 560px" >
         <asp:Label ID="Label2" runat="server" Text="密  码"></asp:Label>
@@ -29,7 +29,7 @@
         <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
     </p>
     <p style="margin-left: 560px" >
-        <asp:Button ID="Button2" runat="server" Text="登  陆" />
+        <asp:Button ID="Button2" runat="server" Text="登  陆" onclick="Button2_Click1" />
     </p>
     
     

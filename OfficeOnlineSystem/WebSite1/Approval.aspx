@@ -11,7 +11,7 @@
     <div>
     
         <asp:Label ID="Label3" runat="server" Text="当前用户信息："></asp:Label>
-        <asp:TextBox ID="TextBox1" runat="server" Height="20px" Width="159px"></asp:TextBox>
+        <asp:Label ID="Label4" runat="server" Text="Label"></asp:Label>
         <br />
         <asp:Panel ID="Panel1" runat="server">
         </asp:Panel>
