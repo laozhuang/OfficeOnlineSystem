@@ -12,7 +12,7 @@ public partial class _Default : System.Web.UI.Page
     UserQueryHql userQueryHql = new UserQueryHql();
     protected void Page_Load(object sender, EventArgs e)
     {
-        
+
     }
     protected void Button1_Click1(object sender, EventArgs e)
     {
@@ -34,13 +34,13 @@ public partial class _Default : System.Web.UI.Page
         {
             if (userQueryHql.GetUserByUserName(textbox1).role)
             {
-                Response.Redirect("/WebSite1/Approval.aspx");
+                Response.Redirect("/WebSite/Approval.aspx");
             }
             else
             {
-                Response.Redirect("/WebSite1/Draft.aspx");
+                Response.Redirect("/WebSite/Draft.aspx");
             }
         }
     }
-   
+
 }

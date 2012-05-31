@@ -24,16 +24,16 @@ public partial class Register : System.Web.UI.Page
 
         //存储用户信息
         User user = new User();
-        user.username = user_name;      
-        user.password=pass_word;
+        user.username = user_name;
+        user.password = pass_word;
         user.email = email;
         user.role = role;
         user.office_id = office_id;
 
         //把用户信息放进数据库
         UserQueryHql userQueryHql = new UserQueryHql();
-        userQueryHql.CreateUser(user);      
-        Response.Redirect("/WebSite1/Default.aspx");
+        userQueryHql.CreateUser(user);
+        Response.Redirect("/WebSite/Default.aspx");
         //Response.Write("<script>alert('恭喜！'+'注册成功，您现在可以起草公文或审批公文')</script>");
     }
 }
