@@ -1,12 +1,12 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Approval.aspx.cs" Inherits="Approval" %>
-
+<%@ Register TagPrefix="FTB" Namespace="FreeTextBoxControls" Assembly="FreeTextBox" %>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head id="Head1" runat="server">
-    <title></title>
+    <title>用户审批页</title>
 </head>
-<body>
+<body style="background-color: #CCFFFF">
     <form id="form1" runat="server">
     <div>
     
@@ -28,6 +28,9 @@
             </asp:TreeNode>
         </Nodes>
     </asp:TreeView>
+    
+    <FTB:FreeTextBox id="FreeTextBox1" runat="Server"  ToolbarStyleConfiguration =OfficeMac 
+    Width=650px Height=650px/>
     </form>
 </body>
 </html>

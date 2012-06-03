@@ -12,11 +12,11 @@ public partial class _Default : System.Web.UI.Page
     UserQueryHql userQueryHql = new UserQueryHql();
     protected void Page_Load(object sender, EventArgs e)
     {
-
+        
     }
     protected void Button1_Click1(object sender, EventArgs e)
     {
-        Response.Redirect("/WebSite1/Register.aspx");
+        Response.Redirect("/Website/Register.aspx");
     }
     protected void Button2_Click1(object sender, EventArgs e)
     {
@@ -43,4 +43,8 @@ public partial class _Default : System.Web.UI.Page
         }
     }
 
+    protected void Button3_Click(object sender, EventArgs e)
+    {
+        Response.Redirect("/Website/Text.aspx");
+    }
 }
