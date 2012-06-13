@@ -26,7 +26,7 @@ namespace DataAccessLayer
         }
 
 
-        public IList<Treat_file> GetAllPost_file()
+        public IList<Treat_file> GetAllTreat_file()
         {
             //返回所有User类的实例
             return _session.CreateQuery("from Treat_file").List<Treat_file>();

@@ -71,7 +71,7 @@ namespace OfficeOnlineSystemTest
             //
             // TODO: 在此处添加测试逻辑
             //
-            IList<Treat_file> listFile = treatFileQueryHql.GetAllPost_file();
+            IList<Treat_file> listFile = treatFileQueryHql.GetAllTreat_file();
             Assert.IsNotNull(listFile);
         }
 
