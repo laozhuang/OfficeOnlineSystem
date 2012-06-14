@@ -1,0 +1,17 @@
+E:\OfficeOnlineSystem\OfficeOnlineSystemData\bin\Debug\OfficeOnlineSystemData.dll
+E:\OfficeOnlineSystem\OfficeOnlineSystemData\bin\Debug\OfficeOnlineSystemData.pdb
+E:\OfficeOnlineSystem\OfficeOnlineSystemData\bin\Debug\NHibernate.dll
+E:\OfficeOnlineSystem\OfficeOnlineSystemData\bin\Debug\OfficeOnlineSystem.dll
+E:\OfficeOnlineSystem\OfficeOnlineSystemData\bin\Debug\Iesi.Collections.dll
+E:\OfficeOnlineSystem\OfficeOnlineSystemData\bin\Debug\OfficeOnlineSystem.pdb
+E:\OfficeOnlineSystem\OfficeOnlineSystemData\obj\Debug\ResolveAssemblyReference.cache
+E:\OfficeOnlineSystem\OfficeOnlineSystemData\obj\Debug\OfficeOnlineSystemData.dll
+E:\OfficeOnlineSystem\OfficeOnlineSystemData\obj\Debug\OfficeOnlineSystemData.pdb
+C:\Users\STRIKE\Desktop\OfficeOnlineSystem\OfficeOnlineSystemData\bin\Debug\OfficeOnlineSystemData.dll
+C:\Users\STRIKE\Desktop\OfficeOnlineSystem\OfficeOnlineSystemData\bin\Debug\OfficeOnlineSystemData.pdb
+C:\Users\STRIKE\Desktop\OfficeOnlineSystem\OfficeOnlineSystemData\bin\Debug\OfficeOnlineSystem.dll
+C:\Users\STRIKE\Desktop\OfficeOnlineSystem\OfficeOnlineSystemData\bin\Debug\Iesi.Collections.dll
+C:\Users\STRIKE\Desktop\OfficeOnlineSystem\OfficeOnlineSystemData\bin\Debug\OfficeOnlineSystem.pdb
+C:\Users\STRIKE\Desktop\OfficeOnlineSystem\OfficeOnlineSystemData\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\STRIKE\Desktop\OfficeOnlineSystem\OfficeOnlineSystemData\obj\Debug\OfficeOnlineSystemData.dll
+C:\Users\STRIKE\Desktop\OfficeOnlineSystem\OfficeOnlineSystemData\obj\Debug\OfficeOnlineSystemData.pdb

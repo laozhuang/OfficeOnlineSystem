@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" assembly="OfficeOnlineSystem" namespace="OfficeOnlineSystem">
+  <class name="OfficeOnlineSystem.file,OfficeOnlineSystem" table="file">
+    <id name="id" column="id" type="Int32" unsaved-value="0">
+      <generator class="native"></generator>
+    </id>
+    <property name="authorid" column="authorid" type="Int32"/>
+    <property name="state" column="state" type="Int32"/>
+  </class>
+</hibernate-mapping>
