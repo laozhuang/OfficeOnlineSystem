@@ -12,17 +12,3 @@ C:\Users\STRIKE\Desktop\OfficeOnlineSystem\BLL\bin\Debug\DataTransfer.pdb
 C:\Users\STRIKE\Desktop\OfficeOnlineSystem\BLL\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\STRIKE\Desktop\OfficeOnlineSystem\BLL\obj\Debug\BLL.dll
 C:\Users\STRIKE\Desktop\OfficeOnlineSystem\BLL\obj\Debug\BLL.pdb
-E:\Office\OfficeOnlineSystem\BLL\bin\Debug\User.hbm.xml
-E:\Office\OfficeOnlineSystem\BLL\bin\Debug\BLL.dll
-E:\Office\OfficeOnlineSystem\BLL\bin\Debug\BLL.pdb
-E:\Office\OfficeOnlineSystem\BLL\bin\Debug\DataAccessLayer.dll
-E:\Office\OfficeOnlineSystem\BLL\bin\Debug\DataTransfer.dll
-E:\Office\OfficeOnlineSystem\BLL\bin\Debug\NHibernate.dll
-E:\Office\OfficeOnlineSystem\BLL\bin\Debug\Iesi.Collections.dll
-E:\Office\OfficeOnlineSystem\BLL\bin\Debug\Castle.DynamicProxy.dll
-E:\Office\OfficeOnlineSystem\BLL\bin\Debug\log4net.dll
-E:\Office\OfficeOnlineSystem\BLL\bin\Debug\DataAccessLayer.pdb
-E:\Office\OfficeOnlineSystem\BLL\bin\Debug\DataTransfer.pdb
-E:\Office\OfficeOnlineSystem\BLL\obj\Debug\ResolveAssemblyReference.cache
-E:\Office\OfficeOnlineSystem\BLL\obj\Debug\BLL.dll
-E:\Office\OfficeOnlineSystem\BLL\obj\Debug\BLL.pdb

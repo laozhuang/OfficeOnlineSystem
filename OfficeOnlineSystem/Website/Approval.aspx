@@ -196,7 +196,7 @@ a:hover {  font-family: "tahoma"; font-size: 16px; line-height: 16px; color: #FF
             <td style="right">
              <asp:GridView ID="GridView1" runat="server" CellPadding="4" ForeColor="#333333" 
          GridLines="None" onselectedindexchanged="GridView1_SelectedIndexChanged" 
-                    Height="38px" Width="397px" AutoGenerateColumns="False" 
+                    Height="57px" Width="435px" AutoGenerateColumns="False" 
                     DataSourceID="ObjectDataSource1" DataKeyNames="id">
            <AlternatingRowStyle BackColor="White" />
                

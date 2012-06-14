@@ -28,12 +28,6 @@ D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataTransfer\bin\Deb
 D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataTransfer\obj\Debug\ResolveAssemblyReference.cache
 D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataTransfer\obj\Debug\DataTransfer.dll
 D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataTransfer\obj\Debug\DataTransfer.pdb
-E:\Office\OfficeOnlineSystem\DataTransfer\bin\Debug\User.hbm.xml
-E:\Office\OfficeOnlineSystem\DataTransfer\bin\Debug\DataTransfer.dll
-E:\Office\OfficeOnlineSystem\DataTransfer\bin\Debug\DataTransfer.pdb
-E:\Office\OfficeOnlineSystem\DataTransfer\obj\Debug\ResolveAssemblyReference.cache
-E:\Office\OfficeOnlineSystem\DataTransfer\obj\Debug\DataTransfer.dll
-E:\Office\OfficeOnlineSystem\DataTransfer\obj\Debug\DataTransfer.pdb
 C:\Users\STRIKE\Desktop\OfficeOnlineSystem\DataTransfer\bin\Debug\User.hbm.xml
 C:\Users\STRIKE\Desktop\OfficeOnlineSystem\DataTransfer\bin\Debug\DataTransfer.dll
 C:\Users\STRIKE\Desktop\OfficeOnlineSystem\DataTransfer\bin\Debug\DataTransfer.pdb

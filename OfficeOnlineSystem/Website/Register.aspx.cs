@@ -42,6 +42,5 @@ public partial class Register : System.Web.UI.Page
         UserQueryHql userQueryHql = new UserQueryHql();
         userQueryHql.CreateUser(user);
         Response.Redirect("/WebSite/Default.aspx");
-        //Response.Write("<script>alert('恭喜！'+'注册成功，您现在可以起草公文或审批公文')</script>");
     }
 }

@@ -8,7 +8,7 @@
       <style type="text/css">
 body
 {
-   
+    background-image: url('resources/img0.jpg');
     background-repeat: repeat;
     background-attachment:fixed;
     background-position  :left top;

@@ -47,6 +47,7 @@ a:hover {  font-family: "tahoma"; font-size: 16px; line-height: 16px; color: #FF
  <img src="resources/portfolio.png"  width="48" height="48" border="0"/></a> <br/>
 
 <a href="Default.aspx">返回登录页</a><br/>
+<a href="Draft.aspx">返回起草页</a><br/>
 <a href="PassFile.aspx">查看已通过文件</a><br/>
 
 <script language="JavaScript">
@@ -197,7 +198,7 @@ a:hover {  font-family: "tahoma"; font-size: 16px; line-height: 16px; color: #FF
             <asp:GridView ID="GridView4" runat="server" AutoGenerateColumns="False" 
                 CellPadding="4" DataSourceID="ObjectDataSource1"  ForeColor="#333333" 
                 GridLines="None"  onselectedindexchanged="GridView1_SelectedIndexChanged"
-                Height="38px" Width="397px" DataKeyNames="id" 
+                Height="53px" Width="422px" DataKeyNames="id" 
                 onrowdeleting="GridView4_RowDeleting">
                 <AlternatingRowStyle BackColor="White" />
                 <Columns>

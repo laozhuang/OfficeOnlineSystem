@@ -32,7 +32,7 @@ public partial class SemiText : System.Web.UI.Page
         //初始status为0，表示尚未审批
         tem.status = 0;
         fileBL.PostSemiFile(tem);
-        Response.Write("/Website/Persion.aspx");
+        Response.Redirect("/Website/PassFile.aspx");
     }
     protected void Button2_Click(object sender, EventArgs e)
     {
@@ -40,6 +40,6 @@ public partial class SemiText : System.Web.UI.Page
         tem.content = this.FreeTextBox1.Text;
         tem.username = Session["username"].ToString();
         fileBL.UpdateSemiFile(tem);
-        Response.Write("/Website/Persion.aspx");
+        Response.Redirect("/Website/SemiFile.aspx");
     }
 }
