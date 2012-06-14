@@ -1,5 +1,0 @@
-E:\Office\OfficeOnlineSystem\FileAccess\bin\Debug\FileAccess.dll
-E:\Office\OfficeOnlineSystem\FileAccess\bin\Debug\FileAccess.pdb
-E:\Office\OfficeOnlineSystem\FileAccess\obj\Debug\ResolveAssemblyReference.cache
-E:\Office\OfficeOnlineSystem\FileAccess\obj\Debug\FileAccess.dll
-E:\Office\OfficeOnlineSystem\FileAccess\obj\Debug\FileAccess.pdb
