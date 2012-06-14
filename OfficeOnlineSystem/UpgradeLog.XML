@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DineAndDiscussNHibernate">
+</Property><Property Name="解决方案文件" Value="D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code\DineAndDiscussNHibernate\DineAndDiscussNHibernate.sln">
+</Property><Property Name="用户选项文件" Value="D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code\DineAndDiscussNHibernate\DineAndDiscussNHibernate.suo">
+</Property><Property Name="Date" Value="2012年5月23日">
+</Property><Property Name="Time" Value="13:53">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DineAndDiscussNHibernate.sln" Description="文件已成功备份为 D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code\DineAndDiscussNHibernate\Backup\DineAndDiscussNHibernate.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DineAndDiscussNHibernate.suo" Description="文件已成功备份为 D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code\DineAndDiscussNHibernate\Backup\DineAndDiscussNHibernate.suo">
+</Event><Event ErrorLevel="0" Project="DataTransfer" Source="DataTransfer\DataTransfer.csproj" Description="项目文件已成功备份为 D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code\DineAndDiscussNHibernate\Backup\DataTransfer\DataTransfer.csproj">
+</Event><Event ErrorLevel="0" Project="DataTransfer" Source="DataTransfer\Customer.cs" Description="文件已成功备份为 D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code\DineAndDiscussNHibernate\Backup\DataTransfer\Customer.cs">
+</Event><Event ErrorLevel="0" Project="DataTransfer" Source="DataTransfer\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code\DineAndDiscussNHibernate\Backup\DataTransfer\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DataTransfer" Source="DataTransfer\Customer.hbm.xml" Description="文件已成功备份为 D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code\DineAndDiscussNHibernate\Backup\DataTransfer\Customer.hbm.xml">
+</Event><Event ErrorLevel="0" Project="DataTransfer" Source="DataTransfer\DataTransfer.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DataTransfer" Source="DataTransfer\DataTransfer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DataAccessLayer" Source="DataAccessLayer\DataAccessLayer.csproj" Description="项目文件已成功备份为 D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code\DineAndDiscussNHibernate\Backup\DataAccessLayer\DataAccessLayer.csproj">
+</Event><Event ErrorLevel="0" Project="DataAccessLayer" Source="DataAccessLayer\NHibernateDataProvider.cs" Description="文件已成功备份为 D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code\DineAndDiscussNHibernate\Backup\DataAccessLayer\NHibernateDataProvider.cs">
+</Event><Event ErrorLevel="0" Project="DataAccessLayer" Source="DataAccessLayer\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code\DineAndDiscussNHibernate\Backup\DataAccessLayer\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DataAccessLayer" Source="DataAccessLayer\DataAccessLayer.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DataAccessLayer" Source="DataAccessLayer\DataAccessLayer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DataAccessLayerTest" Source="DataAccessLayerTest\DataAccessLayerTest.csproj" Description="项目文件已成功备份为 D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code\DineAndDiscussNHibernate\Backup\DataAccessLayerTest\DataAccessLayerTest.csproj">
+</Event><Event ErrorLevel="0" Project="DataAccessLayerTest" Source="DataAccessLayerTest\NHibernateDataProviderTest.cs" Description="文件已成功备份为 D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code\DineAndDiscussNHibernate\Backup\DataAccessLayerTest\NHibernateDataProviderTest.cs">
+</Event><Event ErrorLevel="0" Project="DataAccessLayerTest" Source="DataAccessLayerTest\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code\DineAndDiscussNHibernate\Backup\DataAccessLayerTest\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DataAccessLayerTest" Source="DataAccessLayerTest\hibernate.cfg.xml" Description="文件已成功备份为 D:\学习\大三下\敏捷软件开发\Summer of Nhibernate Session 01 Code\DineAndDiscussNHibernate\Backup\DataAccessLayerTest\hibernate.cfg.xml">
+</Event><Event ErrorLevel="0" Project="DataAccessLayerTest" Source="DataAccessLayerTest\DataAccessLayerTest.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DataAccessLayerTest" Source="DataAccessLayerTest\DataAccessLayerTest.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DineAndDiscussNHibernate.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="DineAndDiscussNHibernate.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DataTransfer" Source="DataTransfer\DataTransfer.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="DataAccessLayer" Source="DataAccessLayer\DataAccessLayer.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="DataAccessLayerTest" Source="DataAccessLayerTest\DataAccessLayerTest.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

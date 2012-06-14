@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTransfer", "DataTransfer\DataTransfer.csproj", "{96672512-F903-486C-B7B4-FD4CD3BF0D1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{DEF95B66-D981-44C7-A17D-538727E2C66D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayerTest", "DataAccessLayerTest\DataAccessLayerTest.csproj", "{D1CB17F1-C64A-4C33-A28B-D531AE58DDC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96672512-F903-486C-B7B4-FD4CD3BF0D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96672512-F903-486C-B7B4-FD4CD3BF0D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96672512-F903-486C-B7B4-FD4CD3BF0D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96672512-F903-486C-B7B4-FD4CD3BF0D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEF95B66-D981-44C7-A17D-538727E2C66D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF95B66-D981-44C7-A17D-538727E2C66D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF95B66-D981-44C7-A17D-538727E2C66D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF95B66-D981-44C7-A17D-538727E2C66D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1CB17F1-C64A-4C33-A28B-D531AE58DDC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1CB17F1-C64A-4C33-A28B-D531AE58DDC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1CB17F1-C64A-4C33-A28B-D531AE58DDC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1CB17F1-C64A-4C33-A28B-D531AE58DDC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

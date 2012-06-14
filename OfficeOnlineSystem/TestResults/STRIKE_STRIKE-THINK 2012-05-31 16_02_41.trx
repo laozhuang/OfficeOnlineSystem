@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="5401a3a2-18ec-4610-8057-cd4125f5218a" name="STRIKE@STRIKE-THINK 2012-05-31 16:02:41" runUser="STRIKE-THINK\STRIKE" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="本地" id="b0d1f914-73df-497a-86de-32ab188fa84f">
+    <Description>这些设置为本地测试运行的默认测试设置。</Description>
+    <Deployment enabled="false" runDeploymentRoot="STRIKE_STRIKE-THINK 2012-05-31 16_02_41">
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\TestFu.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataAccessLayer\bin\Debug\DataAccessLayer.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\NHibernate\Castle.DynamicProxy.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\NHibernate\log4net.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\NGraphviz.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\MbUnit.MSBuild.Tasks.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\TestDriven.Framework.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\NHibernate\Iesi.Collections.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\QuickGraph.Algorithms.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\NGraphviz.Layout.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\MbUnit.Framework.2.0.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\QuickGraph.Algorithms.Graphviz.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\NGraphviz.Helpers.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\MbUnit.AddIn.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\NAnt.Core.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\NHibernate\NHibernate.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\MbUnit.Framework.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\Refly.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\nunit.framework.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\MbUnit.Tasks.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\Lib\MbUnit\QuickGraph.dll" />
+      <DeploymentItem filename="D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataTransfer\bin\Debug\DataTransfer.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-05-31T16:02:41.8675601+08:00" queuing="2012-05-31T16:02:42.2065794+08:00" start="2012-05-31T16:02:42.2525821+08:00" finish="2012-05-31T16:02:43.3766464+08:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="10" executed="10" passed="8" error="0" failed="2" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="DeletePFileTest" storage="d:\学习\大三下\敏捷软件开发\o\officeonlinesystem\testproject2\bin\debug\testproject2.dll" id="9ca828d6-7887-68fd-9992-991592983618">
+      <Execution id="f36040bd-f5e3-4375-9d06-6e026256885e" />
+      <TestMethod codeBase="D:/学习/大三下/敏捷软件开发/O/OfficeOnlineSystem/TestProject2/bin/Debug/TestProject2.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="OfficeOnlineSystemTest.PostFileQueryHql, TestProject2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DeletePFileTest" />
+    </UnitTest>
+    <UnitTest name="GetAllUserNameTest" storage="d:\学习\大三下\敏捷软件开发\o\officeonlinesystem\testproject2\bin\debug\testproject2.dll" id="eb45bce0-f2e0-418d-63b7-e4b5326374fa">
+      <Execution id="e14ceeac-5af4-4f4d-ae29-642f1b96dece" />
+      <TestMethod codeBase="D:/学习/大三下/敏捷软件开发/O/OfficeOnlineSystem/TestProject2/bin/Debug/TestProject2.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="OfficeOnlineSystemTest.UnitTest2, TestProject2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetAllUserNameTest" />
+    </UnitTest>
+    <UnitTest name="IsUserExistTest" storage="d:\学习\大三下\敏捷软件开发\o\officeonlinesystem\testproject2\bin\debug\testproject2.dll" id="a9dee81f-d9e2-896d-f67e-7bb852229bcb">
+      <Execution id="e1e4a55e-cf7c-40b1-b56d-24016e719be4" />
+      <TestMethod codeBase="D:/学习/大三下/敏捷软件开发/O/OfficeOnlineSystem/TestProject2/bin/Debug/TestProject2.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="OfficeOnlineSystemTest.UnitTest2, TestProject2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="IsUserExistTest" />
+    </UnitTest>
+    <UnitTest name="IsPFileExistTest" storage="d:\学习\大三下\敏捷软件开发\o\officeonlinesystem\testproject2\bin\debug\testproject2.dll" id="0941814a-df53-5ccc-c420-f9511d87934f">
+      <Execution id="f66bfbcb-977a-4fc8-89f1-9f7c8f484cf6" />
+      <TestMethod codeBase="D:/学习/大三下/敏捷软件开发/O/OfficeOnlineSystem/TestProject2/bin/Debug/TestProject2.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="OfficeOnlineSystemTest.PostFileQueryHql, TestProject2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="IsPFileExistTest" />
+    </UnitTest>
+    <UnitTest name="GetAllTreatFileTest" storage="d:\学习\大三下\敏捷软件开发\o\officeonlinesystem\testproject2\bin\debug\testproject2.dll" id="9f00eabf-207d-a32d-6200-a35fbf1cc322">
+      <Execution id="316fbc6d-ca1e-41d5-9823-1097d2e4777e" />
+      <TestMethod codeBase="D:/学习/大三下/敏捷软件开发/O/OfficeOnlineSystem/TestProject2/bin/Debug/TestProject2.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="OfficeOnlineSystemTest.TreatFileQueryHql, TestProject2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetAllTreatFileTest" />
+    </UnitTest>
+    <UnitTest name="GetAllUserTest" storage="d:\学习\大三下\敏捷软件开发\o\officeonlinesystem\testproject2\bin\debug\testproject2.dll" id="fc4d7038-8280-771f-9dee-1abde09cb41c">
+      <Execution id="4e6357e6-c0e6-4378-a92b-97341b79c7bf" />
+      <TestMethod codeBase="D:/学习/大三下/敏捷软件开发/O/OfficeOnlineSystem/TestProject2/bin/Debug/TestProject2.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="OfficeOnlineSystemTest.UnitTest2, TestProject2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetAllUserTest" />
+    </UnitTest>
+    <UnitTest name="GetAllPostFileTest" storage="d:\学习\大三下\敏捷软件开发\o\officeonlinesystem\testproject2\bin\debug\testproject2.dll" id="57e9c50f-a89b-c045-2ccb-d22ef82c4493">
+      <Execution id="b1038a6b-0a52-47cc-9699-ee28e81fd1b9" />
+      <TestMethod codeBase="D:/学习/大三下/敏捷软件开发/O/OfficeOnlineSystem/TestProject2/bin/Debug/TestProject2.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="OfficeOnlineSystemTest.PostFileQueryHql, TestProject2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetAllPostFileTest" />
+    </UnitTest>
+    <UnitTest name="IsTreatFileExistText" storage="d:\学习\大三下\敏捷软件开发\o\officeonlinesystem\testproject2\bin\debug\testproject2.dll" id="70278418-fd0b-1d3a-d09f-134c5ce9c7fe">
+      <Execution id="9d0d0147-a5d1-4bff-bf29-85032ac68861" />
+      <TestMethod codeBase="D:/学习/大三下/敏捷软件开发/O/OfficeOnlineSystem/TestProject2/bin/Debug/TestProject2.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="OfficeOnlineSystemTest.TreatFileQueryHql, TestProject2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="IsTreatFileExistText" />
+    </UnitTest>
+    <UnitTest name="GetUserByUsernameTest" storage="d:\学习\大三下\敏捷软件开发\o\officeonlinesystem\testproject2\bin\debug\testproject2.dll" id="81c89b63-2aba-e0d0-5cfc-faae534e0a33">
+      <Execution id="9574b03b-f6f2-4ab6-873b-76eb045dec2b" />
+      <TestMethod codeBase="D:/学习/大三下/敏捷软件开发/O/OfficeOnlineSystem/TestProject2/bin/Debug/TestProject2.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="OfficeOnlineSystemTest.UnitTest2, TestProject2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetUserByUsernameTest" />
+    </UnitTest>
+    <UnitTest name="DeleteUserTest" storage="d:\学习\大三下\敏捷软件开发\o\officeonlinesystem\testproject2\bin\debug\testproject2.dll" id="a568f051-f1c7-387c-f2eb-9e27b8b89e5f">
+      <Execution id="532a6661-1758-4ddf-aa75-b3db6d9be602" />
+      <TestMethod codeBase="D:/学习/大三下/敏捷软件开发/O/OfficeOnlineSystem/TestProject2/bin/Debug/TestProject2.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="OfficeOnlineSystemTest.UnitTest2, TestProject2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DeleteUserTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="列表中未列出的结果" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="所有已加载的结果" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="0941814a-df53-5ccc-c420-f9511d87934f" executionId="f66bfbcb-977a-4fc8-89f1-9f7c8f484cf6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="57e9c50f-a89b-c045-2ccb-d22ef82c4493" executionId="b1038a6b-0a52-47cc-9699-ee28e81fd1b9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="70278418-fd0b-1d3a-d09f-134c5ce9c7fe" executionId="9d0d0147-a5d1-4bff-bf29-85032ac68861" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="81c89b63-2aba-e0d0-5cfc-faae534e0a33" executionId="9574b03b-f6f2-4ab6-873b-76eb045dec2b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9ca828d6-7887-68fd-9992-991592983618" executionId="f36040bd-f5e3-4375-9d06-6e026256885e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9f00eabf-207d-a32d-6200-a35fbf1cc322" executionId="316fbc6d-ca1e-41d5-9823-1097d2e4777e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a568f051-f1c7-387c-f2eb-9e27b8b89e5f" executionId="532a6661-1758-4ddf-aa75-b3db6d9be602" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a9dee81f-d9e2-896d-f67e-7bb852229bcb" executionId="e1e4a55e-cf7c-40b1-b56d-24016e719be4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="eb45bce0-f2e0-418d-63b7-e4b5326374fa" executionId="e14ceeac-5af4-4f4d-ae29-642f1b96dece" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fc4d7038-8280-771f-9dee-1abde09cb41c" executionId="4e6357e6-c0e6-4378-a92b-97341b79c7bf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="f66bfbcb-977a-4fc8-89f1-9f7c8f484cf6" testId="0941814a-df53-5ccc-c420-f9511d87934f" testName="IsPFileExistTest" computerName="STRIKE-THINK" duration="00:00:00.5249905" startTime="2012-05-31T16:02:42.2635827+08:00" endTime="2012-05-31T16:02:43.0926301+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f66bfbcb-977a-4fc8-89f1-9f7c8f484cf6">
+    </UnitTestResult>
+    <UnitTestResult executionId="b1038a6b-0a52-47cc-9699-ee28e81fd1b9" testId="57e9c50f-a89b-c045-2ccb-d22ef82c4493" testName="GetAllPostFileTest" computerName="STRIKE-THINK" duration="00:00:00.0172906" startTime="2012-05-31T16:02:43.0956303+08:00" endTime="2012-05-31T16:02:43.1186316+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b1038a6b-0a52-47cc-9699-ee28e81fd1b9">
+    </UnitTestResult>
+    <UnitTestResult executionId="9d0d0147-a5d1-4bff-bf29-85032ac68861" testId="70278418-fd0b-1d3a-d09f-134c5ce9c7fe" testName="IsTreatFileExistText" computerName="STRIKE-THINK" duration="00:00:00.0099910" startTime="2012-05-31T16:02:43.1196317+08:00" endTime="2012-05-31T16:02:43.1356326+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9d0d0147-a5d1-4bff-bf29-85032ac68861">
+    </UnitTestResult>
+    <UnitTestResult executionId="9574b03b-f6f2-4ab6-873b-76eb045dec2b" testId="81c89b63-2aba-e0d0-5cfc-faae534e0a33" testName="GetUserByUsernameTest" computerName="STRIKE-THINK" duration="00:00:00.0189730" startTime="2012-05-31T16:02:43.1376327+08:00" endTime="2012-05-31T16:02:43.1606340+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9574b03b-f6f2-4ab6-873b-76eb045dec2b">
+    </UnitTestResult>
+    <UnitTestResult executionId="f36040bd-f5e3-4375-9d06-6e026256885e" testId="9ca828d6-7887-68fd-9992-991592983618" testName="DeletePFileTest" computerName="STRIKE-THINK" duration="00:00:00.0551419" startTime="2012-05-31T16:02:43.1636342+08:00" endTime="2012-05-31T16:02:43.2236376+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f36040bd-f5e3-4375-9d06-6e026256885e">
+      <Output>
+        <ErrorInfo>
+          <Message>测试方法 OfficeOnlineSystemTest.PostFileQueryHql.DeletePFileTest 引发了异常: 
+NHibernate.ADOException: could not delete: [DataTransfer.Post_file#10][SQL: DELETE FROM post_file WHERE id = ?] ---&gt; MySql.Data.MySqlClient.MySqlException: Cannot delete or update a parent row: a foreign key constraint fails (`officeonline`.`treat_file`, CONSTRAINT `treat_file_ibfk_1` FOREIGN KEY (`username`) REFERENCES `post_file` (`username`))</Message>
+          <StackTrace>    在 MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64&amp; affectedRows, Int64&amp; lastInsertId)
+   在 MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 NHibernate.Impl.BatcherImpl.ExecuteNonQuery(IDbCommand cmd)
+   在 NHibernate.Impl.NonBatchingBatcher.AddToBatch(IExpectation expectation)
+   在 NHibernate.Persister.Entity.AbstractEntityPersister.Delete(Object id, Object version, Int32 j, Object obj, SqlCommandInfo sql, ISessionImplementor session, Object[] loadedState)
+ --- 内部异常堆栈跟踪的末尾 ---
+    在 NHibernate.Persister.Entity.AbstractEntityPersister.Delete(Object id, Object version, Int32 j, Object obj, SqlCommandInfo sql, ISessionImplementor session, Object[] loadedState)
+   在 NHibernate.Persister.Entity.AbstractEntityPersister.Delete(Object id, Object version, Object obj, ISessionImplementor session)
+   在 NHibernate.Impl.ScheduledDeletion.Execute()
+   在 NHibernate.Impl.SessionImpl.Execute(IExecutable executable)
+   在 NHibernate.Impl.SessionImpl.ExecuteAll(IList list)
+   在 NHibernate.Impl.SessionImpl.Execute()
+   在 NHibernate.Impl.SessionImpl.Flush()
+   在 DataAccessLayer.Post_fileQueryHql.DeletePost_file(Post_file file) 位置 D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataAccessLayer\Post_fileQueryHql.cs:行号 60
+   在 OfficeOnlineSystemTest.PostFileQueryHql.DeletePFileTest() 位置 D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\TestProject2\PostFileQueryHql.cs:行号 93
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="316fbc6d-ca1e-41d5-9823-1097d2e4777e" testId="9f00eabf-207d-a32d-6200-a35fbf1cc322" testName="GetAllTreatFileTest" computerName="STRIKE-THINK" duration="00:00:00.0106790" startTime="2012-05-31T16:02:43.2256377+08:00" endTime="2012-05-31T16:02:43.2406386+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="316fbc6d-ca1e-41d5-9823-1097d2e4777e">
+    </UnitTestResult>
+    <UnitTestResult executionId="532a6661-1758-4ddf-aa75-b3db6d9be602" testId="a568f051-f1c7-387c-f2eb-9e27b8b89e5f" testName="DeleteUserTest" computerName="STRIKE-THINK" duration="00:00:00.0114263" startTime="2012-05-31T16:02:43.2426387+08:00" endTime="2012-05-31T16:02:43.2576396+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="532a6661-1758-4ddf-aa75-b3db6d9be602">
+      <Output>
+        <ErrorInfo>
+          <Message>测试方法 OfficeOnlineSystemTest.UnitTest2.DeleteUserTest 引发了异常: 
+System.ArgumentNullException: attempted to delete null
+参数名: obj</Message>
+          <StackTrace>    在 NHibernate.Impl.SessionImpl.Delete(Object obj)
+   在 DataAccessLayer.UserQueryHql.DeleteUser(User user) 位置 D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\DataAccessLayer\UserQueryHql.cs:行号 72
+   在 OfficeOnlineSystemTest.UnitTest2.DeleteUserTest() 位置 D:\学习\大三下\敏捷软件开发\O\OfficeOnlineSystem\TestProject2\UserQueryHqlTest.cs:行号 108
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="e1e4a55e-cf7c-40b1-b56d-24016e719be4" testId="a9dee81f-d9e2-896d-f67e-7bb852229bcb" testName="IsUserExistTest" computerName="STRIKE-THINK" duration="00:00:00.0096397" startTime="2012-05-31T16:02:43.2596397+08:00" endTime="2012-05-31T16:02:43.2756406+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e1e4a55e-cf7c-40b1-b56d-24016e719be4">
+    </UnitTestResult>
+    <UnitTestResult executionId="e14ceeac-5af4-4f4d-ae29-642f1b96dece" testId="eb45bce0-f2e0-418d-63b7-e4b5326374fa" testName="GetAllUserNameTest" computerName="STRIKE-THINK" duration="00:00:00.0131983" startTime="2012-05-31T16:02:43.2766407+08:00" endTime="2012-05-31T16:02:43.2946417+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e14ceeac-5af4-4f4d-ae29-642f1b96dece">
+    </UnitTestResult>
+    <UnitTestResult executionId="4e6357e6-c0e6-4378-a92b-97341b79c7bf" testId="fc4d7038-8280-771f-9dee-1abde09cb41c" testName="GetAllUserTest" computerName="STRIKE-THINK" duration="00:00:00.0104412" startTime="2012-05-31T16:02:43.2966418+08:00" endTime="2012-05-31T16:02:43.3106426+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4e6357e6-c0e6-4378-a92b-97341b79c7bf">
+    </UnitTestResult>
+  </Results>
+</TestRun>
