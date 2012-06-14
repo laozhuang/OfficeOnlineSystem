@@ -28,7 +28,7 @@
             <asp:Label ID="Label2" runat="server" Text="密  码"></asp:Label>：
             </td>
         <td>
-        <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>         
+        <asp:TextBox ID="TextBox2" runat="server" TextMode="Password"></asp:TextBox>         
             </td>
         </tr>
         <tr>

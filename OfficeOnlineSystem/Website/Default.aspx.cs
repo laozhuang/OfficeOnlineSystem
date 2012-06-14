@@ -32,12 +32,14 @@ public partial class _Default : System.Web.UI.Page
         }
         else
         {
-            if (userQueryHql.GetUserByUserName(textbox1).role)
+            if (userQueryHql.GetUserByUserName(textbox1).role==1)
             {
+                Session["username"] = textbox1; 
                 Response.Redirect("/WebSite/Approval.aspx");
             }
             else
             {
+                Session["username"] = textbox1;
                 Response.Redirect("/WebSite/Draft.aspx");
             }
         }
@@ -45,6 +47,7 @@ public partial class _Default : System.Web.UI.Page
 
     protected void Button3_Click(object sender, EventArgs e)
     {
-        Response.Redirect("/Website/Text.aspx");
+        Session["username"] = "stranger";
+        Response.Redirect("/Website/PassFile.aspx");
     }
 }

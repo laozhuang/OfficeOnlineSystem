@@ -67,7 +67,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Customer.cs" />
     <Compile Include="Post_file.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Treat_file.cs">

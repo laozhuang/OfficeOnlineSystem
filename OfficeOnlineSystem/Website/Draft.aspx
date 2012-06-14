@@ -5,10 +5,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head id="Head1" runat="server">
     <title>文件起草页</title>
-      <style>
+      <style type="text/css">
 body
 {
-    background-image:url('resources/woaidoudou%20(11).jpg');
+   
     background-repeat: repeat;
     background-attachment:fixed;
     background-position  :left top;
@@ -39,7 +39,7 @@ a {  font-family: "tahoma"; font-size: 16px; line-height: 16px; color: #333333; 
 a:hover {  font-family: "tahoma"; font-size: 16px; line-height: 16px; color: #FFFFFF; text-decoration: none}
 </style>
 </head>
-<body>
+
      
   
 <body bgcolor="#FFFFFF" text="#000000">
@@ -48,12 +48,12 @@ a:hover {  font-family: "tahoma"; font-size: 16px; line-height: 16px; color: #FF
 <div id="menuShow" style="" align="center"> <a href="#" onClick="moveOffMenu();moveOnSelector()"> 
  <img src="resources/portfolio.png"  width="48" height="48" border="0"></a> <br/>
 
-<a href="http://sc.chinaz.com">编辑过往草稿文件</a><br>
-<a href="http://www.chinaz.com">查看未通过文件</a><br>
-<a href="Text.aspx">查看已通过文件</a><br/>
+<a href="Default.aspx">返回登陆页</a><br/>
+<a href="SemiFile.aspx">编辑过往草稿文件</a><br/>
+<a href="FailFile.aspx">查看未通过文件</a><br/>
+<a href="PassFile.aspx">查看已通过文件</a><br/>
 
-
-<SCRIPT LANGUAGE="JavaScript">
+<script language="JavaScript">
     // Set Show to "yes" to show the menu on start-up.
     // Set Show to "no" to show the selector on start-up.
 
@@ -164,14 +164,65 @@ a:hover {  font-family: "tahoma"; font-size: 16px; line-height: 16px; color: #FF
         }
     }
 </script>
-
     </div>
-      <table style="margin-left:auto; margin-right:auto;">      <tr>      <td align=middle width=120 height=5><div align="center"><strong>当前用户信息</strong></div></td>
-         <td width=130 height=5><strong>正在起草文件...</strong><div align="center"></div></td>
+
+     <form id="form1" runat="server">
+      <table style="margin-left:auto; margin-right:auto;">
+      <tr>
+      <td align="center" width="120" height="5"><div align="center"><strong>当前用户信息</strong></div></td>
+         <td width="130" height="5"><strong>正在起草文件...</strong><div align="center"></div></td>
        </tr>
-    <FTB:FreeTextBox id="FreeTextBox1" runat="Server" 
-    ToolbarStyleConfiguration ="OfficeMac" Width="800px" Height="650px"/>
-    </table>
-    
+       <tr valign="middle">
+         <td align="center" width="120" height="5" style="right">
+            
+         </td>
+         <td align="center" width="120" height="5" style="right">
+         <asp:Label ID="Label2" runat="server" Text="文件标题"></asp:Label>:
+        <asp:TextBox ID="TextBox2" runat="server" Height="16px" Width="210px"></asp:TextBox>         
+         </td>
+       </tr>     
+       <tr>
+       <td style="left">
+            <table>
+                <tr>
+                    <td valign="middle">
+                     <asp:Label ID="Label1" runat="server" Text="Label2"></asp:Label>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="middle">
+                      <asp:Label ID="Label3" runat="server" Text="Label3"></asp:Label> 
+                    </td>                                     
+                </tr>
+                <tr>
+                    <td valign="middle">
+                      <asp:Label ID="Label4" runat="server" Text="Label4"></asp:Label> 
+                    </td>                                     
+                </tr>
+                <tr>
+                    <td valign="middle">
+                      <asp:Label ID="Label5" runat="server" Text="Label5"></asp:Label> 
+                    </td>                                     
+                </tr>
+            </table>                           
+            </td>  
+      
+       <td align="center" width="120" height="5" style="right">
+             <FTB:FreeTextBox id="FreeTextBox1" runat="Server"  ToolbarStyleConfiguration ="OfficeMac" 
+             Width="765px" Height="450px" />           
+       </td>     
+       </tr>  
+       <tr>
+       <td style="margin-left=200px">
+                <asp:Button ID="Button1" runat="server" Text="保存" Height="35px" Width="158px" 
+                   onclick="Button1_Click"/>              
+       </td>
+       <td>
+                <asp:Button ID="Button2" runat="server" Text="保存为草稿" Height="35px" 
+                    Width="158px" onclick="Button2_Click" />
+       </td>
+       </tr>               
+       </table>
+        </form>
 </body>
 </html>

@@ -19,7 +19,15 @@ public partial class Register : System.Web.UI.Page
         string user_name = TextBox3.Text.Trim();
         string pass_word = TextBox4.Text;
         string email = TextBox6.Text;
-        Boolean role = RadioButton1.Checked;
+        int role;
+        if (RadioButton1.Checked)
+        {
+            role = 1;
+        }
+        else
+        {
+            role = 0;
+        }
         int office_id = int.Parse(TextBox5.Text);
 
         //存储用户信息

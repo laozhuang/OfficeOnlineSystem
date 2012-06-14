@@ -67,8 +67,8 @@ body
     </tr>
     <tr>
             <td style="width:150px; text-align:right;"> 
-             <asp:RadioButton ID="RadioButton1" runat="server" Text="科长" />
-             <asp:RadioButton ID="RadioButton2" runat="server" Text="科员" />
+             <asp:RadioButton ID="RadioButton1" runat="server" Text="科长" GroupName="role"/>
+             <asp:RadioButton ID="RadioButton2" runat="server" Text="科员" GroupName="role"/>
             </td>
     </tr> 
     <tr>
